@@ -9,12 +9,15 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+
 title: "Catherine (Ji Yae) No"
+title_separator: "-"
 name: &name "Catherine (Ji Yae) No"
 description: &description "Physics PhD Student at Harvard University"
 url: "https://catherineno.github.io"
 baseurl: ""
-repository: "catherineno/catherineno.github.io"title_separator         
+repository: "catherineno/catherineno.github.io"
+    
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
